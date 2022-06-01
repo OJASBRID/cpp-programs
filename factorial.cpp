@@ -28,5 +28,5 @@ int main()
     int Fact;
     Fact = fact(n); 
 
-    cout<<Fact;
+    cout<<"The Factorial is :"<<Fact;
 }
